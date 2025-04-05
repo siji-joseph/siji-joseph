@@ -10,7 +10,7 @@ export const Hero = () => {
         <h1 className={styles.title}>Hi, I'm Siji</h1>
         <p className={styles.description}>
           I'm a full-stack developer with 5 years of experience using PHP and
-          Raact. Reach out if you'd like to learn more!
+          React. Reach out if you'd like to learn more!
         </p>
         <a href="mailto:sijijoseph95@gmail.com" className={styles.contactBtn}>
           Contact Me
